@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@tomo-inc/wallet-connect-sdk": "^0.3.3"
+  }
+}
